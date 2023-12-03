@@ -1,6 +1,6 @@
 <div style="background-color: #E7CFCD padding: 20px;" >
   <h1 align="center">Hi 👋, I'm Siyamthanda Labase @siya-max97</h1>
-  <h3 align="center">A passionate Front-End and Back-End Developer with a background in motion picture, i live in Cape Town, South Africa</h3>
+  <h3 align="center">Developer with a background education in Fullstack Web development, from Le Wagon. I'm currently based in Cape Town, South Africa</h3>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=siya-max97&label=Profile%20views&color=0e75b6&style=flat" alt="siya-max97" /> </p>
   
