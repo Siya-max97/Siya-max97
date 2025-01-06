@@ -4,15 +4,11 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=siya-max97&label=Profile%20views&color=0e75b6&style=flat" alt="siya-max97" /> </p>
   
-  - 🌱 I’m currently learning *Node.js, Low-code platfroms*
+  - 🌱 I’m currently learning **Blockchain Development**
   
-  - 👨‍💻 i collaborated  on this project for my bootcamp: [https://www.achievo.me/](https://www.achievo.me/)
-  
-  - 💬 Ask me about **Ruby, Ruby on rails, HTML5, Javascript, SQL, Postgres SQL, RESTful APIs, ORM, responsive design, Deployment and Serverside development**
+  - 💬 Ask me about **Ruby on rails, HTML5, Javascript, SQL, Postgres SQL, RESTful APIs, ORM, responsive design, Deployment and Serverside development**
   
   - 📫 How to reach me **labasesiyamthanda0@gmail.com**
-  
-  - 📄 Know about my experiences [https://novoresume.co.uk/gb/editor/resume/8edfc9b0-66a2-11ee-9951-affbea8f9df2](https://novoresume.co.uk/gb/editor/resume/8edfc9b0-66a2-11ee-9951-affbea8f9df2)
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
