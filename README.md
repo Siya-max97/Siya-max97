@@ -1,26 +1,352 @@
-<div style="background-color: #E7CFCD padding: 20px;" >
-  <h1 align="center">Hi 👋, I'm Siyamthanda Labase @siya-max97</h1>
-  <h3 align="center">Developer with a background education in Fullstack Web development, from Le Wagon. I'm currently based in Cape Town, South Africa</h3>
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=siya-max97&label=Profile%20views&color=0e75b6&style=flat" alt="siya-max97" /> </p>
-  
-  - 💬 Ask me about **Ruby on rails, HTML5, Javascript, SQL, Postgres SQL, RESTful APIs, ORM, responsive design, Deployment and Serverside development**
-  
-  - 📫 How to reach me **labasesiyamthanda0@gmail.com**
-  
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://dev.to/siyamthanda labase @siya-max97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="siyamthanda labase @siya-max97" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/siyamthanda-labase-8a3a9117a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siyamthanda-labase-8a3a9117a/" height="30" width="40" /></a>
-  <a href="https://dribbble.com/https://dribbble.com/siyamax97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/siyamax97" height="30" width="40" /></a>
-  </p>
-  
-  <h3 align="left">Languages and Tools:</h3>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siya-max97&show_icons=true&locale=en&layout=compact" alt="siya-max97" /></p>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siya-max97&show_icons=true&locale=en" alt="siya-max97" /></p>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siya-max97&" alt="siya-max97" /></p>
-</div>  
+```text
+███████╗██╗██╗   ██╗ █████╗
+██╔════╝██║╚██╗ ██╔╝██╔══██╗
+███████╗██║ ╚████╔╝ ███████║
+╚════██║██║  ╚██╔╝  ██╔══██║
+███████║██║   ██║   ██║  ██║
+╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+Booting SiyaOS v3.2...
+```
+
+```text
+████████████████████████████████████████████ 100%
+
+✔ Initializing developer
+✔ Loading engineering philosophy
+✔ Mounting repositories
+✔ Connecting to GitHub API
+✔ Loading experiments
+✔ Loading design system
+✔ Synchronizing projects
+✔ Ready
+
+Welcome back.
+```
+
+```console
+Last login: Today
+System uptime: Building...
+Current location: Cape Town, South Africa
+
+Type "help" to continue...
+
+>
+```
+
+---
+
+## `> help`
+
+```text
+Available commands
+
+whoami
+projects
+lab
+build
+stack
+timeline
+journal
+roadmap
+stats
+contact
+exit
+```
+
+---
+
+# `> whoami`
+
+```text
+Name............. Siyamthanda Labase
+
+Role............. Frontend Developer
+Focus............ Product Engineering
+
+Current Mission..
+
+Building software that solves real problems.
+
+Not chasing frameworks.
+Chasing understanding.
+
+Status........... Learning
+Coffee........... ████████████ 100%
+Ideas............ ██████████░░ 84%
+Sleep............ Unknown
+```
+
+---
+
+# `> ls /products`
+
+```text
+📁 products
+
+├── JobCompass/
+│     Career platform
+│     Rails API
+│     PostgreSQL
+│
+├── Soilmate/
+│     Flutter
+│     AI
+│     Agriculture
+│
+├── Bridge/
+│     Communication Platform
+│
+├── CareerTrack/
+│     Node.js
+│     SQLite
+│
+└── Schedly/
+      SaaS Booking Platform
+```
+
+---
+
+# `> open JobCompass`
+
+```text
+──────────────────────────────────────
+
+PROJECT
+
+Job Compass
+
+──────────────────────────────────────
+
+Purpose
+
+Help people navigate their careers
+through better technology.
+
+Stack
+
+Ruby on Rails
+React
+PostgreSQL
+REST API
+
+Current Status
+
+███████████░░░░ 70%
+
+Next Objective
+
+• Testing
+• Recommendation Engine
+• AI Career Matching
+```
+
+---
+
+# `> cat engineering.md`
+
+```text
+I don't measure success
+by the number of technologies I know.
+
+I measure it by
+
+• problems solved
+
+• users helped
+
+• lessons learned
+
+• products shipped
+
+Everything else is a tool.
+```
+
+---
+
+# `> tree ~/brain`
+
+```text
+brain/
+
+├── frontend/
+│
+├── backend/
+│
+├── ui/
+│
+├── ai/
+│
+├── databases/
+│
+├── product/
+│
+└── ideas/
+```
+
+---
+
+# `> git log --life`
+
+```text
+2022
+
++ Started learning frontend
+
+----------------------------------
+
+2023
+
++ Built first real applications
++ Learned React
++ Learned Vue
+
+----------------------------------
+
+2024
+
++ Ruby on Rails
++ PostgreSQL
++ APIs
++ AI Integration
+
+----------------------------------
+
+2025
+
++ Mobile Development
++ Product Design
++ Full Stack Projects
+
+----------------------------------
+
+NOW
+
+Building products.
+Learning continuously.
+```
+
+---
+
+# `> cat roadmap.md`
+
+```text
+Current Objective
+
+□□□□□□□□□□
+
+Become a Product Engineer
+
+Roadmap
+
+Frontend
+██████████████████
+
+Backend
+██████████████░░░
+
+System Design
+█████████░░░░░░░
+
+AI
+███████████░░░░░
+
+Cloud
+███████░░░░░░░░░
+
+Leadership
+████░░░░░░░░░░░░
+```
+
+---
+
+# `> system-status`
+
+```text
+Developer Status
+
+────────────────────────
+
+Projects
+09
+
+Repositories
+34
+
+Open Ideas
+42
+
+Experiments
+18
+
+Books Reading
+03
+
+Side Projects
+∞
+
+Current Mood
+
+██████████████
+
+Building.
+```
+
+---
+
+# `> cat philosophy.txt`
+
+```text
+Design before code.
+
+Understand before building.
+
+Ship before polishing.
+
+Learn before scaling.
+
+Repeat forever.
+```
+
+---
+
+# `> connect`
+
+```text
+GitHub
+github.com/Siya-max97
+
+LinkedIn
+linkedin.com/in/...
+
+Portfolio
+Coming Soon
+
+Email
+hello@...
+
+Location
+
+Cape Town
+South Africa
+```
+
+---
+
+# `> exit`
+
+```text
+Saving session...
+
+✔ Projects indexed
+
+✔ New ideas recorded
+
+✔ Progress committed
+
+See you soon.
+
+git commit -m "keep building"
+
+Session terminated.
+```
