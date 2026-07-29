@@ -200,11 +200,6 @@ brain/
 + Built first real applications
 + Learned React
 + Learned Vue
-
-----------------------------------
-
-2024
-
 + Ruby on Rails
 + PostgreSQL
 + APIs
@@ -221,7 +216,7 @@ brain/
 ----------------------------------
 
 NOW
-
+Backend Ai Intern @Flyrank^ai
 Building products.
 Learning continuously.
 ```
@@ -317,13 +312,13 @@ GitHub
 github.com/Siya-max97
 
 LinkedIn
-linkedin.com/in/...
+linkedin.com/in/siyamthanda-labase/
 
 Portfolio
 Coming Soon
 
 Email
-hello@...
+labasesiyamthanda0@mail.com
 
 Location
 
